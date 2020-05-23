@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "pring.application.cloud.nacos.discovery.erver-addr",
+      "type": "java.lang.String",
+      "description": "Description for pring.application.cloud.nacos.discovery.erver-addr."
+  }
+] }
